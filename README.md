@@ -1,6 +1,3 @@
-Creating a well-structured README for your GitHub project is crucial for providing clear information and instructions to potential users and contributors. Here’s a template you can use for your project that creates a Deep Q-Network (DQN) to train the Google Chrome Dino game:
-
----
 
 # DQN Dino Trainer
 
