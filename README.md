@@ -98,8 +98,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please open an issue or contact me at (samuelmunizsilva@gmail.com).
 
----
-
-Feel free to adjust the template as needed to fit your project’s specific details, and ensure the provided code and instructions match your implementation.
